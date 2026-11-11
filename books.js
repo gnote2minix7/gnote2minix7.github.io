@@ -110,7 +110,7 @@ const books = [
     "orn": "✦",
     "synopsis": "Seorang lelaki pertengahan umur yang menjalani kehidupan rumah tangga bahagia bersama isterinya, Sofea, dan anak perempuannya, Arissa, mendapati dirinya berada dalam situasi yang mencabar ketika rakan baik anaknya, Qistina, menghabiskan cuti semester di rumah mereka. Qistina, dengan pesona mudanya, mula memberikan konflik dalaman yang tidak diundang dalam dirinya.",
     "infoUrl": "https://www.penana.com/story/200197",
-    "cover": ""
+    "cover": "images/kawananaku.jpg"
   },
   {
     "id": 9,
