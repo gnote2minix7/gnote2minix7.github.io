@@ -1,0 +1,13 @@
+{
+  "name": "rioz-ebook-storefront",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static Rioz bookshelf with the existing Suzanna AR collection",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "test:data": "node --test tests/storefront.test.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.65.0"
+  }
+}
